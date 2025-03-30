@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-I'm an open-source contributor passionate about **developer experience (DX)** and automation. I actively contribute to **VOICEVOX**, a speech synthesis OSS project, focusing on improving CI/CD, code quality, and documentation.
+I'm an open-source contributor passionate about **developer experience (DX)** and automation. I actively contribute to **VOICEVOX**, a speech synthesis OSS project.
 
 ## Open Source Contributions
 ### **VOICEVOX**
