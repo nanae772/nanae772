@@ -14,7 +14,7 @@ I'm an open-source contributor passionate about **developer experience (DX)** an
 - ⚙️ **CI/CD & Automation:** GitHub Actions, Linting & Formatting Tools
 - 💻 **Programming Languages:** Python, Rust, SQL
 - 🏆 **Competitive Programming:** Experience with algorithmic problem-solving and coding competitions
-- 🛠️ **Other Tools:** Docker, VSCode, Jupyter Notebook
+- 🛠️ **Other Tools:** Docker, VSCode
 
 ## Interests
 - ⚡ **Enhancing Developer Experience (DX)** by optimizing workflows and tooling.
